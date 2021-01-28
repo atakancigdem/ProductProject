@@ -57,8 +57,9 @@ interface ICustomerService
         void Update(Customer customer);
         void Delete(Customer customer);
     }
+    // I'm writing the customer interface here for an example.
 ```
-<p>I'm writing the customer interface here for an example. </p>
+
 <p>I set the administrative systems in the concrete folder. I divided the data access folder as abstract and concrete again. I have set up Logging operations in this folder. </p>
 <pre>Logging process to the customer <b>database</b> is requested.</pre>
 <p>I created two different interfaces because registration was required for different locations for the customer and the product. I performed logging management to the database and file on concrete side.</p>
