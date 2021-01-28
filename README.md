@@ -24,7 +24,7 @@
 <ul>
   <li>Müşterilerin kayıt olma, kayıt silme, kayıt güncelleme gibi operasyonlarının yapılmasını istiyoruz.</li>
   <li>Müşteriler kayıt olurken doğrulama yapmak istiyoruz.</li>
-  <li>Müşterilerimiz Veri tabanında Loglamak istiyoruz.</li>
+  <li>Müşterilerimizi Veri tabanında Loglamak istiyoruz.</li>
   <li>Ürünlerimizin satın alındıktan sonra kaç adet kaldığını öğrenmek istiyoruz.</li>
   <li>Ürünlerimizi müşteriler ile ilişkilendirmek istiyoruz.( Hangi müşteri hangi ürünü satın aldığını görmek istiyoruz. )</li> 
   <li>Ürünlerimizi Dosyaya Loglamak istiyoruz. </li>
