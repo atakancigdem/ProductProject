@@ -16,3 +16,21 @@
 <h1>What Is Our Main Purpose?</h1>
 
 <p> We have to prepare our work based on the layered architecture layout. We should concentrate on code quality and clean code rather than requirements.</p>
+
+<h1>Ürün Satan Şirket</h1>
+<p>
+Ürün satan bir firma ile çalışıyoruz. Bizden bir sistem talep edilmektedir. Bu sistemde <b> <i> Ürün kontrolü </i> </b> ve <b> <i> müşteri kontrolü </i> </b> isteniyor.</p>
+<ul>
+  <li>Ürün satan bir şirket için çalışıyoruz. </li>
+  <li>Müşterilerin kayıt olma, kayıt silme, kayıt güncelleme gibi operasyonlarının yapılmasını istiyoruz.</li>
+  <li>Müşteriler kayıt olurken doğrulama yapmak istiyoruz.</li>
+  <li>Müşterilerimiz Veri tabanında Loglamak istiyoruz.</li>
+  <li>Ürünlerimizin satın alındıktan sonra kaç adet kaldığını öğrenmek istiyoruz.</li>
+  <li>Ürünlerimizi müşteriler ile ilişkilendirmek istiyoruz.( Hangi müşteri hangi ürünü satın aldığını görmek istiyoruz. )</li> 
+  <li>Ürünlerimizi Dosyaya Loglamak istiyoruz. </li>
+</ul>  
+  
+<h1>Ana Amacımız Ne?</h1>
+  
+<p>Çalışmamızı katmanlı mimaride hazırlamalı, gereksinimlerden çok kod kalitesine ve temiz kod yazmaya odaklanmalıyız.</p>
+
