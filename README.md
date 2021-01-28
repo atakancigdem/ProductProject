@@ -11,3 +11,6 @@
 <li>We want to see <b> how many products are left </b> after customers receive the product.</li>
 <li>We want to associate its products with customers. (I'm talking about which customer bought which product.)</li>
 <li>Logging process to the product <b>file</b> is requested.</li>
+  </ol>
+  
+ <p> We have to prepare our work based on the layered architecture layout. We should concentrate on code quality and clean code rather than requirements.</p>
