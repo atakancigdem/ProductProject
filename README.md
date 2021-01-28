@@ -20,7 +20,7 @@
 <h1>What Have I Done?</h1>
 
 <p>First I determined the assets we need.</p>
-<p>Assign variables to entities</p>
+<p>I have assigned variables to entities</p>
 
 ```cs
 class Customer
