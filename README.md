@@ -13,4 +13,6 @@
 <li>Logging process to the product <b>file</b> is requested.</li>
   </ol>
   
- <p> We have to prepare our work based on the layered architecture layout. We should concentrate on code quality and clean code rather than requirements.</p>
+<h1>What Is Our Main Purpose?</h1>
+
+<p> We have to prepare our work based on the layered architecture layout. We should concentrate on code quality and clean code rather than requirements.</p>
