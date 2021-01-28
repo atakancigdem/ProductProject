@@ -23,7 +23,7 @@
 <p>Assign variables to entities</p>
 
 <pre>
-class <span class = p1-c1 >Customer</span>
+class <span class = pl-c1>Customer</span>
 {
   
 }
