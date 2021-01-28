@@ -47,7 +47,7 @@ class Product
 ```
 <p>In the product section, I added the name, price and stock number.
 Then I divided it into folders abstractly and concretely.
-This made me run cleaner. 
+
   Firstly I divided the work part into <code>abstract</code> and <code>concrete.</code></p>
 
 ```cs
