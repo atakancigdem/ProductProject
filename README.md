@@ -20,8 +20,8 @@
 <h1>Ürün Satan Şirket</h1>
 <p>
 Ürün satan bir firma ile çalışıyoruz. Bizden bir sistem talep edilmektedir. Bu sistemde <b> <i> Ürün kontrolü </i> </b> ve <b> <i> müşteri kontrolü </i> </b> isteniyor.</p>
+<h1>Gereksinimler</h1>
 <ul>
-  <li>Ürün satan bir şirket için çalışıyoruz. </li>
   <li>Müşterilerin kayıt olma, kayıt silme, kayıt güncelleme gibi operasyonlarının yapılmasını istiyoruz.</li>
   <li>Müşteriler kayıt olurken doğrulama yapmak istiyoruz.</li>
   <li>Müşterilerimiz Veri tabanında Loglamak istiyoruz.</li>
