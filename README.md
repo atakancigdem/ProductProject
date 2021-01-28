@@ -31,5 +31,36 @@ class Customer
     public int BirthYear { get; set; }
     public string NationlityId { get; set; }
 }
+```
+<p>I added features such as Id, Name, Surname, Nationality. 
+I adjusted the customer, product, purchasing, verification interfaces in the ABSTRACT class.</p>
 
 
+```cs
+class Product
+{
+     public int Id { get; set; }
+     public string Name { get; set; }
+     public int Price { get; set; }
+     public int StockNumber { get; set; }
+}
+```
+<p>In the product section, I added the name, price and stock number.
+Then I divided it into folders abstractly and concretely.
+This made me run cleaner. 
+  Firstly I divided the work part into <code>abstract</code> and <code>concrete.</code></p>
+
+```cs
+interface ICustomerService
+    {
+        void Add(Customer customer);
+        void Update(Customer customer);
+        void Delete(Customer customer);
+    }
+```
+<p>I'm writing the customer interface here for an example. </p>
+<p>I set the administrative systems in the concrete folder. I divided the data access folder as abstract and concrete again. I have set up Logging operations in this folder. </p>
+<pre>Logging process to the customer <b>database</b> is requested.</pre>
+<p>I created two different interfaces because registration was required for different locations for the customer and the product. I performed logging management to the database and file on concrete side.</p>
+
+<p>Finally, I performed my <code> program.cs </code> operations and finished my code.</p>
