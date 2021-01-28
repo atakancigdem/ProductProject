@@ -19,8 +19,14 @@
 
 <h1>What Have I Done?</h1>
 
+<p>First I determined the assets we need.</p>
+<p>Assign variables to entities</p>
+
 <pre>
-code
+class <span class = p1-c1 >Customer</span>
+{
+  
+}
 </pre>
 
 
