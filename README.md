@@ -22,12 +22,14 @@
 <p>First I determined the assets we need.</p>
 <p>Assign variables to entities</p>
 
-<pre>
-class <span class = pl-c1>Customer</span>
++++cs
+class Customer
 {
-  
+    public int Id { get; set; }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public int BirthYear { get; set; }
+    public string NationlityId { get; set; }
 }
-</pre>
-
 
 
