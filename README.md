@@ -22,7 +22,7 @@
 <p>First I determined the assets we need.</p>
 <p>Assign variables to entities</p>
 
-'''csharp
+```cs
 class Customer
 {
     public int Id { get; set; }
